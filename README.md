@@ -1,26 +1,52 @@
-# portfolio-website
-A personal portfolio website built with HTML and CSS to showcase my projects and contact information.
-<h1>mrkdesigny.ai</h1>
-<p>AI Content Creator & Instagram Manager 🚀</p>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>mrkdesigny.ai</title>
+  <link rel="stylesheet" href="style.css">
+</head>
 
-<h2>About Me</h2>
-<p>I create high-quality AI videos, posters, and visual content. I help brands grow using AI tools and manage Instagram accounts for better engagement and reach.</p>
+<body>
 
-<h2>Services</h2>
-<ul>
-  <li>AI Video Creation</li>
-  <li>AI Poster & Design</li>
-  <li>Instagram Growth & Management</li>
-  <li>Brand Content Strategy</li>
-</ul>
+  <header>
+    <h1>mrkdesigny.ai</h1>
+    <p>AI Content Creator • Poster Designer • Instagram Manager</p>
+  </header>
 
-<h2>My Work</h2>
-<ul>
-  <li>AI-generated videos</li>
-  <li>Creative posters</li>
-  <li>Brand content campaigns</li>
-</ul>
+  <section>
+    <h2>About Me</h2>
+    <p>
+      I help brands grow using AI-generated videos, posters, and creative content.
+      I specialize in building engaging Instagram content and managing social media presence.
+    </p>
+  </section>
 
-<h2>Contact</h2>
-<p>Email: your@email.com</p>
-<p>Instagram: @mrkdesigny.ai</p>
+  <section>
+    <h2>Services</h2>
+    <div class="card">AI Video Creation</div>
+    <div class="card">AI Poster Design</div>
+    <div class="card">Instagram Management</div>
+    <div class="card">Content Strategy</div>
+  </section>
+
+  <section>
+    <h2>My Work</h2>
+    <p>Add your posters and videos here (very important)</p>
+  </section>
+
+  <section>
+    <h2>Results</h2>
+    <ul>
+      <li>Helped brands increase engagement</li>
+      <li>Created viral AI content</li>
+      <li>Improved Instagram growth</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Contact</h2>
+    <p>Email: 86123mrk@gmail.com</p>
+    <p>Instagram: @mrkdesigny.ai</p>
+  </section>
+
+</body>
+</html>
